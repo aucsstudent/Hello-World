@@ -1,3 +1,5 @@
 __author__ = 'cook'
 
-print("Hello World")
+hello = 'Hello'
+world = 'World'
+print(hello + ' ' + world)
